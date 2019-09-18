@@ -46,9 +46,9 @@
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel1});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 218);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 224);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(288, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(299, 22);
             this.statusStrip1.SizingGrip = false;
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
@@ -63,7 +63,7 @@
             // 
             this.tlsMenu.Location = new System.Drawing.Point(0, 0);
             this.tlsMenu.Name = "tlsMenu";
-            this.tlsMenu.Size = new System.Drawing.Size(288, 25);
+            this.tlsMenu.Size = new System.Drawing.Size(299, 25);
             this.tlsMenu.TabIndex = 1;
             this.tlsMenu.Text = "toolStrip1";
             // 
@@ -72,7 +72,7 @@
             this.rtbText.Dock = System.Windows.Forms.DockStyle.Fill;
             this.rtbText.Location = new System.Drawing.Point(0, 25);
             this.rtbText.Name = "rtbText";
-            this.rtbText.Size = new System.Drawing.Size(288, 193);
+            this.rtbText.Size = new System.Drawing.Size(299, 199);
             this.rtbText.TabIndex = 2;
             this.rtbText.Text = resources.GetString("rtbText.Text");
             // 
@@ -83,7 +83,7 @@
             this.tsbtncolor});
             this.toolStrip1.Location = new System.Drawing.Point(0, 25);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(288, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(299, 25);
             this.toolStrip1.TabIndex = 3;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -109,7 +109,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(288, 240);
+            this.ClientSize = new System.Drawing.Size(299, 246);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.rtbText);
             this.Controls.Add(this.tlsMenu);
