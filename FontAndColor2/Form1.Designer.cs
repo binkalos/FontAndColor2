@@ -95,6 +95,7 @@
             this.tsbtnFont.Name = "tsbtnFont";
             this.tsbtnFont.Size = new System.Drawing.Size(23, 22);
             this.tsbtnFont.Text = "toolStripButton1";
+            this.tsbtnFont.Click += new System.EventHandler(this.TsbtnFont_Click);
             // 
             // tsbtncolor
             // 
@@ -104,6 +105,7 @@
             this.tsbtncolor.Name = "tsbtncolor";
             this.tsbtncolor.Size = new System.Drawing.Size(23, 22);
             this.tsbtncolor.Text = "toolStripButton2";
+            this.tsbtncolor.Click += new System.EventHandler(this.Tsbtncolor_Click);
             // 
             // Form1
             // 
